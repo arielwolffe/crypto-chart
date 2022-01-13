@@ -1,6 +1,8 @@
 # Bitcoin Price Chart
 
-## The Task:
+### [See Demo](https://as-crypto-chart.netlify.app/)
+
+## The Task
 
 Using a React based framework (Create React App, NextJS, Preact) of your choice, create a simplified version of a crypto tracking chart. It should plot the price of a cryptocurrency coin of your choice in USD over time, with options to change the time frame.
 
